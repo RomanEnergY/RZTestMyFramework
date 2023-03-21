@@ -8,7 +8,6 @@
 import Foundation
 
 public class RZUser {
-    
     public let name: String
     
     public init(name: String) {
